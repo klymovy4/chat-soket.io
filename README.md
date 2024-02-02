@@ -1,5 +1,7 @@
 # Getting Started with React Chat App
 
+## This application demonstrates a chat which is developed using socket.io.
+
 
 ## 1
 
